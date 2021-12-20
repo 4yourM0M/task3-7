@@ -1,0 +1,32 @@
+.cell {
+  width: 130px;
+  height: 130px;
+  margin: 1px;
+  display: inline-block;
+}
+
+#cell1 {
+  background: #0062ff;
+}
+
+#cell2 {
+  background: #ff0019;
+}
+
+#cell3 {
+  background: #ffaa00;
+}
+
+#cell4 {
+  background: #3ec400;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  margin-left: 50px;
+  font-weight: bold;
+  color: white;
+}
